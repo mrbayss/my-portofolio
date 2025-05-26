@@ -25,7 +25,7 @@ export default function ContactSection() {
     },
     {
       name: 'Twitter (X)',
-      href: 'https://x.com/bayu190903',
+      href: 'https://x.com/BayuYusuf1909',
       icon: <FaTwitter size={30} />,
       bgColor: 'bg-black', // Atau biru klasik Twitter jika suka
       textColor: 'text-white',
@@ -33,7 +33,7 @@ export default function ContactSection() {
     },
     {
       name: 'TikTok',
-      href: 'https://tiktok.com/@bayu190903',
+      href: 'https://www.tiktok.com/@bayuyusuf09',
       icon: <FaTiktok size={30} />,
       bgColor: 'bg-black', // TikTok sering menggunakan hitam atau campuran warna cerah
       textColor: 'text-white',
